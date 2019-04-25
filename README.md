@@ -8,3 +8,6 @@ Record data struct source code with C++
 [循环队列 Circulate Queue](https://github.com/MaJesTySA/DataStruct/blob/master/Cir_Queue.h)
 
 [链表 Linked List](https://github.com/MaJesTySA/DataStruct/blob/master/linked_List.h)
+
+[二叉树 Binary Tree](https://github.com/MaJesTySA/DataStruct/blob/master/Binary_Tree.h)
+
