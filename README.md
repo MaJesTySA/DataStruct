@@ -9,7 +9,9 @@ Record data struct source code with C++
 
 [链表 Linked List](https://github.com/MaJesTySA/DataStruct/blob/master/linked_List.h)
 
-[链栈 Linked Stack](https://github.com/MaJesTySA/DataStruct/blob/master/linked_Stack.h)
+[带链栈 Linked Stack](https://github.com/MaJesTySA/DataStruct/blob/master/linked_Stack.h)
+
+[带链队列 Linked Queque](https://github.com/MaJesTySA/DataStruct/blob/master/linked_Queue.h)
 
 [二叉树 Binary Tree](https://github.com/MaJesTySA/DataStruct/blob/master/Binary_Tree.h)
 
